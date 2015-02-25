@@ -12,4 +12,4 @@ This repository contains **Dockerfile** of [Node.js](http://nodejs.org/) running
 
     > docker run --rm -ti hwestphal/nodebox
     # node --version
-    v0.10.33
+    v0.10.36
